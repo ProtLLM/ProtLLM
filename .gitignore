@@ -1,0 +1,34 @@
+# Python
+__pycache__
+*.pyc
+*.egg-info
+dist
+build
+
+# Log
+*.log
+*.log.*
+*.json
+*.jsonl
+
+# Data
+dataset
+
+# Editor
+.idea
+*.swp
+
+# Other
+.DS_Store
+wandb
+output
+ckpt*
+
+.ipynb_checkpoints
+*.ipynb
+
+# DevContainer
+!.devcontainer/*
+
+# Demo
+serve_images/
