@@ -4,11 +4,11 @@
 
 
 <a href='https://protllm.github.io/project/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
-<a href='assets/protllm.pdf'><img src='https://img.shields.io/badge/Paper-PDF-orange'></a> 
+<a href='https://arxiv.org/pdf/2403.07920.pdf'><img src='https://img.shields.io/badge/Paper-PDF-orange'></a> 
 
 <div align=center><img src="assets/demo.gif" width="90%" height="90%" /></div>
 
-This repository hosts the code, data and model weight of **ProtLLM**, a versatile cross-modal large language model for both protein-centric and protein-language tasks.
+This repository hosts the code, data and model weights of [**ProtLLM**](https://arxiv.org/abs/2403.07920), a versatile cross-modal large language model for both protein-centric and protein-language tasks.
 
 
 
@@ -16,7 +16,6 @@ This repository hosts the code, data and model weight of **ProtLLM**, a versatil
 
 
 ## TODOs
-- [ ] Release Arxiv version of the paper.
 - [ ] Release the code for retrieval.
 - [ ] Release the raw InterPT dataset.
 - [ ] Update the huggingface version of ProtLLM.
