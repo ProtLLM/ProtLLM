@@ -76,9 +76,13 @@ You can specify the `--n_demo` argument to control the number of demonstration s
 If you have any questions related to the code or the paper, feel free to contact [Le Zhuo](zhuole1025@gmail.com), [Zewen Chi](czw@bit.edu.cn), and [Minghao Xu](chrisallenming@gmail.com).
 
 
-<!-- ## Citation -->
-<!-- If you find our work useful in your research, please consider citing Vary: -->
-<!-- ```bibtex -->
-<!--  -->
-<!--  -->
-<!-- ``` -->
+## Citation
+If you find our work useful in your research, please consider citing ProtLLM:
+```bibtex
+@article{zhuo2024protllm,
+  title={ProtLLM: An Interleaved Protein-Language LLM with Protein-as-Word Pre-Training},
+  author={Le Zhuo and Zewen Chi and Minghao Xu and Heyan Huang and Heqi Zheng and Conghui He and Xian-Ling Mao and Wentao Zhang},
+  journal={arXiv preprint arXiv:2403.079205},
+  year={2024}
+}
+```
